@@ -13,5 +13,5 @@ count = 10000; minRadius = 5.0f; clockwise = false; speed = 1.0f;
   * 设置透明度渐变，即光效；
   * 加两层旋转，分别为顺时针和逆时针
 
-* 效果视频：  
+* 效果视频：  （不清晰，无法看到真实效果）
 http://v.youku.com/v_show/id_XMzYzMTYyODQ1Ng.html?spm=a2h0j.11185381.listitem_page1.5~A

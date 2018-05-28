@@ -10,7 +10,8 @@ count = 10000; minRadius = 5.0f; clockwise = false; speed = 1.0f;
   * 在一个圆环内随机分布一定数量的粒子；
   * 给粒子设置不同的旋转速度；
   * 让粒子在半径方向上游离，显得更加自然真实；
-  * 设置透明度渐变，即光效。
+  * 设置透明度渐变，即光效；
+  * 加两层旋转，分别为顺时针和逆时针
 
 * 效果视频：  
 http://v.youku.com/v_show/id_XMzYzMTYyODQ1Ng.html?spm=a2h0j.11185381.listitem_page1.5~A
